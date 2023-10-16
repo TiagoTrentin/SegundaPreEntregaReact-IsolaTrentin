@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "car_factory": "Porsche",
+    "car_model": "Taycan",
+    "car_year": "2021",
+    "category": "Red",
+    "img": "https://listings-prod.tcimg.net/listings/21460/84/67/WP0AA2Y17MSA16784/WTOCHG2ENNW2DMSXE6HA2TRULE-cr-860.jpg",
+    "description": "Un sedán deportivo totalmente eléctrico con un diseño elegante y tecnología de vanguardia."
+  },
+  {
+    "id": 2,
+    "car_factory": "Porsche",
+    "car_model": "Cayenne Turbo S",
+    "car_year": 2020,
+    "category": "Black",
+    "img": "https://listings-prod.tcimg.net/listings/21460/72/41/WP1AH2AY4LDA44172/OSDM3UNT7R35TUVWUSL3FORMME-cr-860.jpg",
+    "description": "Una SUV de alto rendimiento que combina potencia con lujo, ideal para los amantes de la velocidad y el confort."
+  },
+  {
+    "id": 3,
+    "car_factory": "Lamborghini",
+    "car_model": "Urus",
+    "car_year": "2022",
+    "category": "White",
+    "img": "https://listings-prod.tcimg.net/listings/21460/75/92/ZPBUA1ZL0NLA19275/RHOJCKAKQ4GIS3GPEREOVAG2AA-cr-860.jpg",
+    "description": "Una SUV de ensueño con un diseño agresivo y un motor potente, perfecta para aquellos que buscan un rendimiento excepcional."
+  },
+  {
+    "id": 4,
+    "car_factory": "Bentley",
+    "car_model": "Bentayga",
+    "car_year": "2020",
+    "category": "Black",
+    "img": "https://listings-prod.tcimg.net/listings/21460/56/00/SJAAR2ZV9LC030056/G3VLJV4BICZ5LLUYHIFZXXRUBM-cr-860.jpg",
+    "description": "Una SUV de lujo con una combinación excepcional de artesanía, tecnología y desempeño, diseñada para satisfacer los gustos más exigentes."
+  },
+  {
+    "id": 5,
+    "car_factory": "Lamborghini",
+    "car_model": "Huracan Evo",
+    "car_year": "2020",
+    "category": "Grey",
+    "img": "https://listings-prod.tcimg.net/listings/21460/62/38/ZHWUT4ZF1LLA13862/NR7XKJOHEP7FESW5FRAH6OOXXE-cr-860.jpg",
+    "description": "Un superdeportivo de alto rendimiento que combina elegancia y potencia en una máquina impresionante."
+  }
+]
